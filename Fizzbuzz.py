@@ -1,4 +1,4 @@
-i = 2
+i = 3
 while i <= 100:
     if i%3==0:
         print("Fizz", end="")
